@@ -1,0 +1,11 @@
+# Recorder
+*.env
+__pycache__
+.idea
+*.txt
+UserFinder
+build
+dist
+*.spec
+*.bat
+*-test.py
