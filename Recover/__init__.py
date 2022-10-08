@@ -17,7 +17,8 @@ DOMAIN_LIST = ['https://vod-secure.twitch.tv', 'https://vod-metro.twitch.tv', 'h
                'https://dgeft87wbj63p.cloudfront.net', 'https://d1m7jfoe9zdc1j.cloudfront.net',
                'https://d3vd9lfkzbru3h.cloudfront.net', 'https://d2vjef5jvl6bfs.cloudfront.net',
                'https://d1ymi26ma8va5x.cloudfront.net', 'https://d1mhjrowxxagfy.cloudfront.net',
-               'https://ddacn6pr5v0tl.cloudfront.net', 'https://d3aqoihi2n8ty8.cloudfront.net']
+               'https://ddacn6pr5v0tl.cloudfront.net', 'https://d3aqoihi2n8ty8.cloudfront.net',
+               'https://dgeft87wbj63p.cloudfront.net']
 URL_REGEX_EXPRESSION = "https?://twitchtracker[/:%#\$&\?\(\)~\.=\+\-]+"
 
 
